@@ -16,7 +16,7 @@
         <br />
         <div class="m-5">
             <div class="form-group row">
-                <label for="NumberOne" class="col-2 col-form-label ">First Number:</label>
+                <label for="NumberOne" class="col-sm-2 col-form-label ">First Number:</label>
                 <div class="col-sm-5">
                     <asp:TextBox class="form-control" ID="txtFirstNumber" runat="server" placeholder="First Number"></asp:TextBox>
                 </div>
